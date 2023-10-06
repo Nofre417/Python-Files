@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python_Page_3.md",
+                "file": "Python_Page_2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python_Page_3.md",
+                "file": "Python_Page_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python_Page_3.md",
+                "file": "Python_Page_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python_Page_3.md"
+                "file": "Python_Page_2.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b6a2b9db6cc1ecdb",
   "lastOpenFiles": [
-    "Python_Page_2.md",
     "Python_Page_3.md",
+    "Python_Page_2.md",
     "Python_Page_1.md",
     "Files/Pasted image 20230925134356.png",
     "NAVIGATION.md",
