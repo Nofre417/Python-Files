@@ -22,6 +22,7 @@ data = read_csv ('california_housing_test.csv')
 median_house_value > 70000
 """
 
+
 # print(data.isnull().sum())
 # print(data[data['median_income'] < 2]['median_house_value'])
 
