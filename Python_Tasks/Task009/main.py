@@ -10,6 +10,7 @@ data = read_csv ('california_housing_train.csv')
 
 avg = data[(data['population'] > 0) & (data['population'] < 500)]['medianHouseValue'].mean()
 
+
 '''
 Дан файл california_housing_train.csv.
 Найти максимальное значение переменной "households" в зоне минимального значения переменной "population" и сохраните это значение в переменную max_households_in_min_population.
